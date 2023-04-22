@@ -1,3 +1,10 @@
 #back{
     background-color: aquamarine;
 }
+#pantalla{
+    background-color: aliceblue;
+    text-align: right;
+}
+.button{
+    width: 100%;
+}
